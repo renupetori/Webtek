@@ -34,9 +34,9 @@ include 'shared/nav.php';
 	
 	
 </section>
-<footer>
-	<p>&copy; Petri Laine</p>
-</footer>
+<?php
+include 'shared/footer.php';
+?>
 	
 </body>
 </html>
