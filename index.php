@@ -8,13 +8,10 @@
 </head>
 <body>
 
-<header>
-
 <?php
 include 'shared/nav.php';
 ?>
 
-</header>
 <div class="midbar">
 
 </div>

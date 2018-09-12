@@ -10,9 +10,7 @@
 <?php
 include 'shared/nav.php';
 ?>
-<header>
-	
-</header>
+
 <div class="midbar">
 
 </div>
