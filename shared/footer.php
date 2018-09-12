@@ -1,3 +1,3 @@
 <footer>
-<address>&copy; Petri Laine <a href="mailto:petrilaine@esimerkki.fi">email</a>.</address>
+	<p>&copy; Petri Laine <a href="mailto:petrilaine@esimerkki.fi">email</a></p>
 </footer>
