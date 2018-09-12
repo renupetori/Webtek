@@ -11,7 +11,6 @@
 <header>
 
 <?php
-echo "VITTU";
 include 'shared/nav.php';
 ?>
 
