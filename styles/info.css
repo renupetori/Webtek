@@ -38,6 +38,15 @@ nav a:hover {
     color: black;
 }
 
+td {
+    height: 50px;
+}
+
+table, th, td {
+   border: 1px solid black;
+   text-align: center;
+}
+
 .midbar {
 	padding-top: 35px;
     background-color: #333;
