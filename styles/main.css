@@ -46,6 +46,7 @@ nav a:hover {
 
 section {
 display: flex;
+height: auto;
 }
 
 aside {
