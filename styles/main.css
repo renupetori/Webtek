@@ -79,6 +79,10 @@ animation-name: anima;
 animation-duration: 10s;
 }
 
+.2nd {
+background-color: yellow;	
+}
+
 footer {
 	position: absolute;
 	right: 0;
