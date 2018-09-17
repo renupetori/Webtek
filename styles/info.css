@@ -62,6 +62,11 @@ article {
     background-color: #f1f1f1;
 }
 
+table {
+	width:500px;
+	border-collapse: collapse;
+}
+
 table, th, td {
    border-width: 1px;
    border-style:solid;
