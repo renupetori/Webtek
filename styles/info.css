@@ -63,9 +63,15 @@ article {
     background-color: #f1f1f1;
 }
 
-.taulu.td {
-	border-collapse: collapse;
-	border: 1px solid black;
+table {
+    border-collapse: collapse;
+    width: 500px%;
+}
+
+th, td {
+    padding: 8px;
+    text-align: center;
+    border: 1px solid #ddd;
 }
 
 
