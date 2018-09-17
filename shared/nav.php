@@ -4,7 +4,7 @@
 	<a href="info.php">Info</a>
 	<a href="contact.php">Contact</a>
 	
-	<a href="#" id="js" onclick="vip">JavaScript</a>
+	<a id="js" onclick="vip">JavaScript</a>
 	
 	<script>
 function vip() {
