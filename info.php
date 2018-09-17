@@ -38,7 +38,7 @@ include 'shared/nav.php';
 						<td>5</td>
 						<td>6</td>
 					</tr>
-					<tr>
+					<tr class="kolm">
 						<td>7</td>
 						<td>8</td>
 						<td>9</td>

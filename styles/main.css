@@ -75,12 +75,17 @@ table, th, td {
 }
 
 .anim {
-animation-name: anima;
-animation-duration: 10s;
+	background-color: blue;
+	animation-name: anima;
+	animation-duration: 10s;
 }
 
 .toka {
-background-color: yellow;
+	background-color: yellow;
+}
+
+.kolm {
+	background-color: green;
 }
 
 footer {
