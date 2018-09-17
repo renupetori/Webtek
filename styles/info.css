@@ -38,22 +38,15 @@ nav a:hover {
     color: black;
 }
 
-table, th, td {
-   border: 1px solid black;
-   text-align: center;
-}
-
-table {
-    width: 100%;
-}
-
-th {
-    height: 50px;
-}
 
 .midbar {
 	padding-top: 35px;
     background-color: #333;
+}
+
+th, td {
+text-align: center;
+border: 1px solid black;	
 }
 
 section {
@@ -74,6 +67,8 @@ article {
     width: 80%;
     background-color: #f1f1f1;
 }
+
+
 
 
 footer {
