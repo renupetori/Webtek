@@ -4,11 +4,8 @@
 	<a href="info.php">Info</a>
 	<a href="contact.php">Contact</a>
 	
-	<a id="js" onclick="vip">JavaScript</a>
+	<a id="js" onclick="alert('Coming Soon')">JavaScript</a>
 	
 	<script>
-function vip() {
-    alert("Coming Soon");
-}
 </script>
 </nav>
