@@ -41,7 +41,7 @@ include 'shared/nav.php';
 					<td>8</td>
 					<td>9</td>
 				</tr>
-			
+			</table>
 	</article>
 	
 	
