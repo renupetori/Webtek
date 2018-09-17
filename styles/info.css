@@ -67,10 +67,6 @@ table {
 	border-collapse: collapse;
 }
 
-tr {
-	display: table-cell;	
-}
-
 table, th, td {
    border-width: 1px;
    border-style:solid;
