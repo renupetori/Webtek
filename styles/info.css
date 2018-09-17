@@ -43,6 +43,14 @@ table, th, td {
    text-align: center;
 }
 
+table {
+    width: 100%;
+}
+
+th {
+    height: 50px;
+}
+
 .midbar {
 	padding-top: 35px;
     background-color: #333;
