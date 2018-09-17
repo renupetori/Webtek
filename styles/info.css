@@ -65,6 +65,7 @@ article {
 
 table {
     border-collapse: collapse;
+	border-color: black;
     width: 500px%;
 }
 
