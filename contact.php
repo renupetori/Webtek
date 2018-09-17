@@ -27,9 +27,16 @@ include 'shared/nav.php';
 	</aside>
 	<article>
 			<h1>Työn alla</h1>	
-			<img src ="images/neko.gif">
 			
-			
+			<form action="php/forms.php">
+				First name:<br>
+				<input type="text" name="firstname" value="">
+				<br>
+				Last name:<br>
+				<input type="text" name="lastname" value="">
+				<br><br>
+				<input type="submit" value="Submit">
+			</form>
 	</article>
 	
 	
