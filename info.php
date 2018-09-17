@@ -33,7 +33,7 @@ include 'shared/nav.php';
 					</tr>
 				</thead>
 				<tbody>
-					<tr class="2nd">
+					<tr class="toka">
 						<td>4</td>
 						<td>5</td>
 						<td>6</td>
