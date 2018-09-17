@@ -46,7 +46,6 @@ nav a:hover {
 
 section {
 display: flex;
-height: auto;
 }
 
 aside {
@@ -58,6 +57,7 @@ padding-left: 20px;
 	
 
 article {
+	height: auto;
     float: right;
     width: 80%;
     background-color: #f1f1f1;
