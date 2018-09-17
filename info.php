@@ -25,12 +25,14 @@ include 'shared/nav.php';
 	<article>
 			<h1>Taulukko</h1>
 			<table>
-				<tbody>
+				<thead>
 					<tr>
-						<td>1</td>
-						<td>2</td>
-						<td>3</td>
+						<th>1</th>
+						<th>2</th>
+						<th>3</th>
 					</tr>
+				</thead>
+				<tbody>
 					<tr>
 						<td>4</td>
 						<td>5</td>
