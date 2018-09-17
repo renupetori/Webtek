@@ -19,7 +19,6 @@ include 'shared/nav.php';
 </div>
 
 <section>
-	
 	<aside>
 			<p>Sivupalkki</p>
 	</aside>
@@ -43,8 +42,6 @@ include 'shared/nav.php';
 				</tr>
 			</table>
 	</article>
-	
-	
 </section>
 <?php
 include 'shared/footer.php';
