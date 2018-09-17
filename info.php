@@ -25,7 +25,7 @@ include 'shared/nav.php';
 	</aside>
 	<article>
 			<h1>Taulukko</h1>
-			<table class="taulukko">
+			<table>
 				<tr>
 					<td>1</td>
 					<td>2</td>
