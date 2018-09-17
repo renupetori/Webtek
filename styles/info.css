@@ -63,7 +63,7 @@ article {
     background-color: #f1f1f1;
 }
 
-taulu.td {
+.taulu.td {
 	border-collapse: collapse;
 	border: 1px solid black;
 }
