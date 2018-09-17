@@ -63,7 +63,7 @@ article {
 }
 
 table {
-	width:500px;
+	width:400px;
 	border-collapse: collapse;
 }
 
@@ -87,6 +87,9 @@ footer {
 }
 
 @media screen and (max-width: 800px) {
+	table {
+	width: 200px;	
+	}
     nav a {
 		float: none;
         width: 100%;
@@ -94,6 +97,9 @@ footer {
 }
 
 @media screen and (max-width: 400px) {
+	table {
+	width: 100px;	
+	}
     nav a {
 		float: none;
         width: 100%;
