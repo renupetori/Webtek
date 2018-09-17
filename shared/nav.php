@@ -4,7 +4,7 @@
 	<a href="info.php">Info</a>
 	<a href="contact.php">Contact</a>
 	
-	<a id="js" onclick="alert('Coming Soon')">JavaScript</a>
+	<a href="#" id="js" onclick="alert('Coming Soon')">JavaScript</a>
 	
 	<script>
 </script>
