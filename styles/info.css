@@ -88,7 +88,7 @@ footer {
 
 @media screen and (max-width: 800px) {
 	header {
-		background-size: auto;
+		background-image: none;
 		height: auto;
 	}
 	table {
