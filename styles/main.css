@@ -74,6 +74,11 @@ table, th, td {
    text-align: center;
 }
 
+.anim {
+animation-name: anima;
+animation-duration: 10s;
+}
+
 footer {
 	position: absolute;
 	right: 0;
@@ -98,6 +103,11 @@ footer {
 		float: left;
         width: 100%;
     }
+}
+
+@keyframes anima {
+    from {background-color: red;}
+    to {background-color: blue;}
 }
 
 @media screen and (max-width: 400px) {

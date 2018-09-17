@@ -26,7 +26,7 @@ include 'shared/nav.php';
 			<h1>Taulukko</h1>
 			<table>
 				<thead>
-					<tr>
+					<tr class="anim">
 						<th>1</th>
 						<th>2</th>
 						<th>3</th>
