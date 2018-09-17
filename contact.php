@@ -26,7 +26,7 @@ include 'shared/nav.php';
 		<ul>
 	</aside>
 	<article>
-			<h1>Työn alla</h1>	
+			<h1>Vieraskirja</h1>	
 			
 			<form action="php/forms.php">
 				First name:<br>
